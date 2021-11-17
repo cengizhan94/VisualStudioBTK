@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Primenumber2\bin\Debug\Primenumber2.exe.config
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Primenumber2\bin\Debug\Primenumber2.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Primenumber2\bin\Debug\Primenumber2.pdb
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Primenumber2\obj\Debug\Primenumber2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Primenumber2\obj\Debug\Primenumber2.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Primenumber2\obj\Debug\Primenumber2.pdb
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Primenumber2\obj\Debug\Primenumber2.csproj.AssemblyReference.cache

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Prime_Number
+namespace Primenumber2
 {
     class Program
     {
@@ -12,27 +12,26 @@ namespace Prime_Number
         {
             if (isPrimenumber(7))
             {
-                Console.WriteLine("This is a prime number.");
+                Console.WriteLine("Asal Sayıdır.");
             }
             else
             {
-                Console.WriteLine("This is a not prime number.");
+                Console.WriteLine("Asal Sayı değildir.");
             }
             Console.ReadLine();
         }
-
         private static bool isPrimenumber(int number)
         {
             bool result = true;
-            for (int i = 2; i < number - 1; i++)
+            for (int i = 2; i < number-1; i++)
             {
-                if (number % i == 0)
+                if (number%i==0)
                 {
-                    result = false;
+                    result = false;      
                 }
+                
             }
             return result;
         }
-
     }
- }
+}
