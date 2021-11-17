@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Methots\bin\Debug\Methots.exe.config
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Methots\bin\Debug\Methots.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Methots\bin\Debug\Methots.pdb
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Methots\obj\Debug\Methots.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Methots\obj\Debug\Methots.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Methots\obj\Debug\Methots.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Methots\obj\Debug\Methots.pdb
