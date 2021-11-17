@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\İnterfaces\bin\Debug\İnterfaces.exe.config
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\İnterfaces\bin\Debug\İnterfaces.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\İnterfaces\bin\Debug\İnterfaces.pdb
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\İnterfaces\obj\Debug\İnterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\İnterfaces\obj\Debug\İnterfaces.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\İnterfaces\obj\Debug\İnterfaces.pdb
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\İnterfaces\obj\Debug\İnterfaces.csproj.AssemblyReference.cache
