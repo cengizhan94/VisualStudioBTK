@@ -1,2 +1,2 @@
 # VisualStudioBTK
-BTK Akademi Algoritmik Yapılar Dersi
+VisualStudio BTK Akademi Çalışmalarım
