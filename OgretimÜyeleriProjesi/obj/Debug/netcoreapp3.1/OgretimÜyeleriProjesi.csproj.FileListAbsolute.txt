@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\bin\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.exe
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\bin\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.deps.json
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\bin\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\bin\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\bin\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.dll
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\bin\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.pdb
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\obj\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\obj\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\obj\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\obj\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\obj\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\obj\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.dll
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\obj\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.pdb
+C:\Users\Lenovo\Desktop\BTKAkademi Programlama Temelleri\OgretimÜyeleriProjesi\obj\Debug\netcoreapp3.1\OgretimÜyeleriProjesi.genruntimeconfig.cache
