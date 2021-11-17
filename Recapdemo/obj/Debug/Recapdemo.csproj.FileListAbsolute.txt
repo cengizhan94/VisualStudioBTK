@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\bin\Debug\Recapdemo.exe.config
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\bin\Debug\Recapdemo.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\bin\Debug\Recapdemo.pdb
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\obj\Debug\Recapdemo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\obj\Debug\Recapdemo.Form1.resources
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\obj\Debug\Recapdemo.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\obj\Debug\Recapdemo.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\obj\Debug\Recapdemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\obj\Debug\Recapdemo.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Recapdemo\obj\Debug\Recapdemo.pdb
