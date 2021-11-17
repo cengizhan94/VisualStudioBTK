@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Prime Number\bin\Debug\Prime Number.exe.config
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Prime Number\bin\Debug\Prime Number.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Prime Number\bin\Debug\Prime Number.pdb
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Prime Number\obj\Debug\Prime Number.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Prime Number\obj\Debug\Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Prime Number\obj\Debug\Prime Number.exe
+C:\Users\Lenovo\Desktop\C#\Vstudio 19\Csharp2Dersleri\Prime Number\obj\Debug\Prime Number.pdb
