@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Visual Studio Dersleri 2\Ogrennciuygulaması\bin\Debug\Ogrennciuygulaması.exe.config
+C:\Users\Lenovo\Desktop\Visual Studio Dersleri 2\Ogrennciuygulaması\bin\Debug\Ogrennciuygulaması.exe
+C:\Users\Lenovo\Desktop\Visual Studio Dersleri 2\Ogrennciuygulaması\bin\Debug\Ogrennciuygulaması.pdb
+C:\Users\Lenovo\Desktop\Visual Studio Dersleri 2\Ogrennciuygulaması\obj\Debug\Ogrennciuygulaması.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Visual Studio Dersleri 2\Ogrennciuygulaması\obj\Debug\Ogrennciuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Visual Studio Dersleri 2\Ogrennciuygulaması\obj\Debug\Ogrennciuygulaması.exe
+C:\Users\Lenovo\Desktop\Visual Studio Dersleri 2\Ogrennciuygulaması\obj\Debug\Ogrennciuygulaması.pdb
