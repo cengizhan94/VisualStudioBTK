@@ -1,2 +1,2 @@
 # VisualStudioBTK
-VisualStudio BTK Akademi Çalışmalarım
+VisualStudio C# BTK Akademi Çalışmalarım
